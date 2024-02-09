@@ -1,0 +1,21 @@
+.div{
+    background: linear-gradient(rgb(231, 114, 231),rgb(233, 112, 112),rgb(114, 114, 226));
+ 
+}
+.btn1{
+    height: 40px;
+    width: 120px;
+    background-color: red;
+   margin-top: 20px;
+}
+#btn_toogle{
+    margin-top: 0px;
+    height: 40px;
+    width: 120px;
+    background-color: red;
+}
+
+#hidden{
+position: relative;
+bottom: 10px;
+}
